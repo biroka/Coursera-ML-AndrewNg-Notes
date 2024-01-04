@@ -1,7 +1,8 @@
 repo_name: biroka/Coursera-ML-AndrewNg-Notes
 report_id: 01a777d0e1bea382e7589b526b599d34
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T15:25:47+00:00'
+timestamp: '2024-01-04T14:58:33+00:00'
 requested_by: fengdu78
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/biroka/Coursera-ML-AndrewNg-Notes
   detection_source: Repo Metadata
 - name: Jupyter
   description: Multi-language interactive computing environments.
@@ -25,4 +27,5 @@ tools:
   category: Application Utilities
   sub_category: Data Science Notebooks
   image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/biroka/Coursera-ML-AndrewNg-Notes
   detection_source: Repo Metadata
